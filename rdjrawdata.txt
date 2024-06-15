@@ -1,0 +1,1 @@
+a:5:{s:6:"artist";s:7:"Placebo";s:5:"title";s:17:"Slave to the Wage";s:4:"year";s:4:"2000";s:5:"album";s:18:"Black Market Music";s:5:"image";s:24:"02 Slave To The Wage.jpg";}
